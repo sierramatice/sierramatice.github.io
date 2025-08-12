@@ -1,3 +1,7 @@
+layout: post
+title: "Google-Recipe"
+date: 2025-08-10 -0000
+categories: CATEGORY-1 CATEGORY-2
 # Google Recipe - UX Protothon
 
 This project was done for the 5th annual UX Protothon hosted by UW Dubstech. They invited students of all majors to come test their rapid prototyping and design thinking skills in industry inspired, time-sensitive design challenges. Me and two other participants formed a team, and only having two and a half hours for the whole process, quickly got to know one another and got to work on the Google Recipe challenge. We started with identifying pain points we had experienced when using a smartphone to cook from. 
