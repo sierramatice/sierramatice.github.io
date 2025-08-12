@@ -1,1 +1,3 @@
 # sierramatice.github.io
+I am a UX generalist, specializing in UX and UI Research, Design, and Prototyping. I want to explore both the research and design sides of UI and UX and am excited by the prospect of identifying poor design and conducting the research and development to fix existing design issues as well as new emerging problems.
+
